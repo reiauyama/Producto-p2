@@ -1,0 +1,42 @@
+body{
+    padding: 0;
+    margin: 0;
+}
+
+.nav {
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+       
+}
+
+.nav_bar{
+    text-align: center;
+    display: flex;
+    list-style: none;
+    margin: 10px;
+    margin-left: 10px;
+    margin-right: 5px;
+    padding: 0px;
+    background-color: rgb(255, 255, 255);
+
+}
+
+.img {
+    width: 150px;
+    height: 40px;
+    padding: 0;
+    margin-right: 100px;   
+}
+
+.nav_bar a {
+    text-decoration: none;
+    color: rgba(49, 48, 48, 0.815);
+    margin-left: 20px;
+    font-size: 15px;
+    padding: 5px;
+    font-family: "Poppins", sans-serif;
+   
+}
+
+.contac a{
+    color: #ee2b7b;
+}
